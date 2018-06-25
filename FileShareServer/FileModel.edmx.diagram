@@ -7,7 +7,7 @@
       <Diagram DiagramId="b9100bbed50341e48d50efe59b843edf" Name="Diagram1">
         <EntityTypeShape EntityType="DBfileModel.Acces" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
         <EntityTypeShape EntityType="DBfileModel.File" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="DBfileModel.Person" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBfileModel.Person" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
         <EntityTypeShape EntityType="DBfileModel.User" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
         <AssociationConnector Association="DBfileModel.file_id" ManuallyRouted="false" />
         <AssociationConnector Association="DBfileModel.owner_id" ManuallyRouted="false" />
